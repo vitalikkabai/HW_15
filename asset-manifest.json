@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vitalikkabai/HW_15/static/css/main.05002c4c.chunk.css",
-    "main.js": "/vitalikkabai/HW_15/static/js/main.fc2f8d20.chunk.js",
-    "main.js.map": "/vitalikkabai/HW_15/static/js/main.fc2f8d20.chunk.js.map",
-    "runtime-main.js": "/vitalikkabai/HW_15/static/js/runtime-main.e93c0535.js",
-    "runtime-main.js.map": "/vitalikkabai/HW_15/static/js/runtime-main.e93c0535.js.map",
-    "static/js/2.6eaadabc.chunk.js": "/vitalikkabai/HW_15/static/js/2.6eaadabc.chunk.js",
-    "static/js/2.6eaadabc.chunk.js.map": "/vitalikkabai/HW_15/static/js/2.6eaadabc.chunk.js.map",
-    "index.html": "/vitalikkabai/HW_15/index.html",
-    "precache-manifest.af3d69303f373900fcf8959b50c6a303.js": "/vitalikkabai/HW_15/precache-manifest.af3d69303f373900fcf8959b50c6a303.js",
-    "service-worker.js": "/vitalikkabai/HW_15/service-worker.js",
-    "static/css/main.05002c4c.chunk.css.map": "/vitalikkabai/HW_15/static/css/main.05002c4c.chunk.css.map",
-    "static/js/2.6eaadabc.chunk.js.LICENSE.txt": "/vitalikkabai/HW_15/static/js/2.6eaadabc.chunk.js.LICENSE.txt",
-    "static/media/twitter-verified-badge.svg": "/vitalikkabai/HW_15/static/media/twitter-verified-badge.96c76035.svg"
+    "main.css": "/HW_15/static/css/main.05002c4c.chunk.css",
+    "main.js": "/HW_15/static/js/main.6039ea95.chunk.js",
+    "main.js.map": "/HW_15/static/js/main.6039ea95.chunk.js.map",
+    "runtime-main.js": "/HW_15/static/js/runtime-main.3f8c5f3c.js",
+    "runtime-main.js.map": "/HW_15/static/js/runtime-main.3f8c5f3c.js.map",
+    "static/js/2.6eaadabc.chunk.js": "/HW_15/static/js/2.6eaadabc.chunk.js",
+    "static/js/2.6eaadabc.chunk.js.map": "/HW_15/static/js/2.6eaadabc.chunk.js.map",
+    "index.html": "/HW_15/index.html",
+    "precache-manifest.15586c47cf2cc08006f1d61210d55a33.js": "/HW_15/precache-manifest.15586c47cf2cc08006f1d61210d55a33.js",
+    "service-worker.js": "/HW_15/service-worker.js",
+    "static/css/main.05002c4c.chunk.css.map": "/HW_15/static/css/main.05002c4c.chunk.css.map",
+    "static/js/2.6eaadabc.chunk.js.LICENSE.txt": "/HW_15/static/js/2.6eaadabc.chunk.js.LICENSE.txt",
+    "static/media/twitter-verified-badge.svg": "/HW_15/static/media/twitter-verified-badge.96c76035.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e93c0535.js",
+    "static/js/runtime-main.3f8c5f3c.js",
     "static/js/2.6eaadabc.chunk.js",
     "static/css/main.05002c4c.chunk.css",
-    "static/js/main.fc2f8d20.chunk.js"
+    "static/js/main.6039ea95.chunk.js"
   ]
 }
